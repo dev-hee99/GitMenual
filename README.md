@@ -1,7 +1,7 @@
 Github
 
 
-##**기본용어 정리**##
+## **기본용어 정리**
 
 ```
 
@@ -64,7 +64,7 @@ Github
 
 ```
 
-##로컬저장소와 원격 저장소 연결 방법
+## 로컬저장소와 원격 저장소 연결 방법
 
 ``` 
 git init
@@ -75,7 +75,7 @@ git remote add origin https://github.com/계정명/레포지토리주소.git
 
 git remote -v - 원격저장소 등록후 확인
 ```
-##push하는 방법 
+### push하는 방법 
 
 ```
 git add . ( .은 폴더아래 모든 폴더,파일)
@@ -84,7 +84,7 @@ git commit -m "메세지" (메세지에는 커밋시 남길 메세지)
 
 git push  origin 브랜치명
 ```
-##branch 생성
+### branch 생성
 ```
 git branch - 현재 선택된 브랜치를 알 수 있음 
 
@@ -93,7 +93,7 @@ git branch 생성할 브랜치명
 git checkout 브랜치명 - 브랜치 변경 기본 master에서 새로 생성한 브랜치로 변경하기위해 주로 사용 
 ```
 
-##pull하는 방법
+### pull하는 방법
 ```
 숙지중
 ```
