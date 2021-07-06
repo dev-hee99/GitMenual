@@ -82,7 +82,7 @@ git add . ( .은 폴더아래 모든 폴더,파일)
 
 git commit -m "메세지" (메세지에는 커밋시 남길 메세지)
 
-git push  origin 브랜치명
+git push origin 브랜치명
 ```
 ### branch 생성
 ```
@@ -95,8 +95,9 @@ git checkout 브랜치명 - 브랜치 변경 기본 master에서 새로 생성�
 
 ### pull하는 방법
 ```
-숙지중
+git pull origin 브랜치명 - 원격저장소에 있는 데이터를 로컬로 가져와 병합시킴
 ```
 
-reference
-https://github.com/progit/progit/blob/master/ko/02-git-basics/01-chapter2.markdown
+#### reference
+>https://github.com/progit/progit/blob/master/ko/02-git-basics/01-chapter2.markdown
+>https://backlog.com/git-tutorial/kr/stepup/stepup3_1.html
