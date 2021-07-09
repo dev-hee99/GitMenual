@@ -74,6 +74,10 @@ git remote add origin https://github.com/계정명/레포지토리주소.git
 (origin은 별칭)
 
 git remote -v - 원격저장소 등록후 확인
+
+삭제법
+git remote remove origin
+
 ```
 ### push하는 방법 
 
